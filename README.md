@@ -1,3 +1,5 @@
+![logo](https://github.com/knightVader/knightVader/blob/main/232446433-d5540fa2-fe28-4bb8-b929-cdb51fe61336.gif)
+
 <h1 align="center">Hi 👋, I'm Vaibhav Sharma</h1>
 <h3 align="center">A passionate Learner from India</h3>
 
